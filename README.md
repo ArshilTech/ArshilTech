@@ -21,10 +21,10 @@
 <br >
 <br >
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArshilTech&theme=default&show_icons=true&hide_border=true&count_private=true" alt="ArshilTech's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshilTech&theme=default&show_icons=true&hide_border=true&layout=compact" alt="ArshilTech's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArshilTech&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="ArshilTech's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshilTech&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="ArshilTech's GitHub Stats" height="165"/>
 </p>
 
 <p align="center">
-  <img  src="https://streak-stats.demolab.com?user=ArshilTech&theme=default&hide_border=true" alt="ArshilTech's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ArshilTech&theme=tokyonight&hide_border=true" alt="ArshilTech's GitHub Stats" />
 </p>
