@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **arshilmasood@gmail.com**
 
-- ⚡ Fun fact **I scored 10.00 CGPA in my 1st semester and 3rd semester 😅**
+- ⚡ Fun fact **I scored 10.00 SGPA in my 1st semester and 3rd semester 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
