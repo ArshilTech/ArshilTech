@@ -23,9 +23,9 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Step 1: Checkout the repository (Updated v3 -> v4)
+      # Step 1: Checkout the repository (Updated to v5 to silence the warning)
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       # Step 2: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
@@ -39,7 +39,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Deploy the generated files to the 'output' branch (Updated v3 -> v4)
+      # Step 3: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v4
         with:
