@@ -4,17 +4,17 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" height="50%"/>
 
 ## 📌 About Me
-* 🎓 B.Tech CSE student (Data Science & AI) holding a 9.80 CGPA.
-* 🚀 Full-stack developer who loves transforming complex UI/UX wireframes into scalable production code.
-* 🌱 I'm currently mastering advanced React workflows, responsive design systems, and cloud-native databases.
-* ⚡ Fun fact: Collected a flawless 10.00 SGPA in Semesters 1 and 3 to keep that 9.80 cumulative average looking sharp.
+* 🎓 **B.Tech CSE student (Data Science & AI) holding a 9.80 CGPA.**
+* 🚀 **Full-stack developer who loves transforming complex UI/UX wireframes into scalable production code.**
+* 🌱 **I'm currently mastering advanced React workflows, responsive design systems, and cloud-native databases.**
+* ⚡ **Fun fact: Collected a flawless 10.00 SGPA in Semesters 1 and 3 to keep that 9.80 cumulative average looking sharp.**
 
 
 ## 🧠 My Focus Areas
-* ⚡Full-Stack Web Development
-* ⚡Artificial Intelligence & Machine Learning
-* ⚡AI-Integrated App Design
-* ⚡Responsive Web Design
+* ⚡**Full-Stack Web Development**
+* ⚡**Artificial Intelligence & Machine Learning**
+* ⚡**AI-Integrated App Design**
+* ⚡**Responsive Web Design**
 
 
 ## 🌐 Let's Build Something Cool!
