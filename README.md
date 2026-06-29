@@ -8,7 +8,6 @@
 - 🚀 Full-stack developer who loves transforming complex UI/UX wireframes into scalable production code.
 - 🌱 I'm currently mastering advanced React workflows, responsive design systems, and cloud-native databases.
 - ⚡ Fun fact: Collected a flawless 10.00 SGPA in Semesters 1 and 3 to keep that 9.80 cumulative average looking sharp.
-- 🤝 Connect With Me
 
 
 ## 🧠 My Focus Areas
@@ -17,6 +16,12 @@
 - ⚡AI-Integrated App Design
 - ⚡Responsive Web Design
 
+
+## 🌐 Let's Build Something Cool!
+* 📧 **Got an interesting project or a 24-hour hackathon squad to build?** Slide into my inbox: [arshilmasood@gmail.com](mailto:arshilmasood@gmail.com).
+* 💼 **Let's make it official:** Check out my professional journey and updates on [LinkedIn](https://www.linkedin.com/in/arshil-masood-061386308).
+
+<br />
 
 ## 📊 GitHub Stats
 <p align="center">
