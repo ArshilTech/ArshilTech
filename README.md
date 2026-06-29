@@ -17,6 +17,13 @@
 * ⚡**Responsive Web Design**
 
 
+<div align="center">
+  
+  ![snake gif](https://github.com/ArshilTech/ArshilTech/blob/output/github-snake.svg)
+  
+</div>
+
+
 ## 🌐 Let's Build Something Cool!
 * 📧 **Got an interesting project or a 24-hour hackathon squad to build?** Slide into my inbox: [arshilmasood@gmail.com](mailto:arshilmasood@gmail.com).
 * 💼 **Let's make it official:** Check out my professional journey and updates on [LinkedIn](https://www.linkedin.com/in/arshil-masood-061386308).
