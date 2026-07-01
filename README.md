@@ -1,13 +1,24 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Arshil Masood</h1>
 <h3 align="center">Scholastic Vanguard | Full-Stack Alchemist | Hackathon Laureate</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="75%"/>
-
 ## 📌 About Me
-* 🎓 **B.Tech CSE student (Data Science & AI) holding a 9.80 CGPA.**
+* 🎓 **B.Tech CSE student (Data Science & AI) holding a 9.82 CGPA.**
 * 🚀 **Full-stack developer who loves transforming complex UI/UX wireframes into scalable production code.**
 * 🌱 **I'm currently mastering advanced React workflows, responsive design systems, and cloud-native databases.**
-* ⚡ **Fun fact: Collected a flawless 10.00 SGPA in Semesters 1 and 3 to keep that 9.80 cumulative average looking sharp.**
+* ⚡ **Fun fact: Collected a flawless 10.00 SGPA in Semesters 1 and 3 to keep that 9.82 cumulative average looking sharp.**
+
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="75%"/>
+
+## 🏆 Acievements
+* 🥈 **Smart India Hackathon 2K25 (Internal Edition) - Runners up**
+* 💎 **Reached Diamond League in Google Cloud Skills Boost Campaign**
+* 🎯 **Top 20 @ BuildX India Hackathon 2K26**
+* 🥉 **3rd place @ CodeSprint Hackathon 2K26**
+* 🎯 **Top performer at IBM Technovate 2K26**
+* 📝 **Member of the International Press @ IUMUN**
+
+  > 🗂️ **Looking for the receipts?** I maintain a dedicated repository summarizing my technical milestones, event leadership, and continuous learning tracking.
+  > 👉 **Explore the full archive here: [achievements-and-proof-of-work](https://github.com/ArshilTech/achievements-and-proof-of-work)**
 
 
 ## 🧠 My Focus Areas
