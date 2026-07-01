@@ -76,7 +76,7 @@
   </a>
 </p>
 
-## 💬 Quote
+
 > "Clean code. Scalable architecture. Continuous learning."
 
 
