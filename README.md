@@ -20,6 +20,7 @@
   > 🗂️ **Looking for the receipts?** I maintain a dedicated repository summarizing my technical milestones, event leadership, and continuous learning tracking.
   > 👉 **Explore the full archive here: [achievements-and-proof-of-work](https://github.com/ArshilTech/achievements-and-proof-of-work)**
 
+---
 
 ## 🧠 My Focus Areas
 * ⚡**Full-Stack Web Development**
@@ -34,6 +35,7 @@
   
 </div>
 
+---
 
 ## 🌐 Let's Build Something Cool!
 * 📧 **Got an interesting project or a 24-hour hackathon squad to build?** Slide into my inbox: [arshilmasood@gmail.com](mailto:arshilmasood@gmail.com).
@@ -56,6 +58,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshilTech&theme=moltack&radius=10" alt="ArshilTech's Activity Graph" width="100%" />
 </p>
 
+---
 
 ## 💻 Tech Stack
 
@@ -76,6 +79,8 @@
 
 ### 🎨 Design & Prototyping
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
 
 ## 🔗 Connect with Me
 <p align="center">
