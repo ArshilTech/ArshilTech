@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshilTech&theme=moltack&radius=10" alt="ArshilTech's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshilTech&theme=moltack&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
